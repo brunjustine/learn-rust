@@ -1,1 +1,1 @@
-/home/eisti/rust/projects/training_1/rectangles/target/debug/rectangles: /home/eisti/rust/projects/training_1/rectangles/src/main.rs
+/home/brunjustin/rust/projects/learn-rust/training_1/rectangles/target/debug/rectangles: /home/brunjustin/rust/projects/learn-rust/training_1/rectangles/src/main.rs

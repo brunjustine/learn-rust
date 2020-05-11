@@ -21,6 +21,7 @@ impl Rectangle {
             width: size,
             height: size,
         }
+    }
 }
 
 fn main() {
